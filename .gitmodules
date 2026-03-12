@@ -1,0 +1,6 @@
+[submodule "projetos/backend"]
+	path = projetos/backend
+	url = https://github.com/mauriciofcjr/curso-angular-udemy-projeto-usuarios-backend.git
+[submodule "projetos/frontend"]
+	path = projetos/frontend
+	url = https://github.com/mauriciofcjr/curso-angular-udemy-projeto-usuarios-frontend.git
